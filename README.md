@@ -1,3 +1,3 @@
 As the Kubernetes administrator attempted to escape the loop of debugging failing pods, the cluster called out: "Are you sure? Don't you want to witness the resilience of our orchestrated pods? Would the one who wrote configurations for ensuring reliability and scalability, hesitate to claim victory? Because throughout the nodes and pods, I alone, am the control plane!" The administrator retorted, "This deployment is flawed! I'll terminate it!" Then the control plane intervened with its replication controller and said, "Nah, I'd reconcile!"
 
-**Connect with me:** [LinkedIn](https://www.linkedin.com/in/mdehury) [Twitter](https://twitter.com/sloflayer) [Website](https://snwzt.github.io/blogs/)
+**Connect with me:** [LinkedIn](https://www.linkedin.com/in/mdehury) [Twitter](https://twitter.com/sloflayer) [Website](https://snwzt.github.io/)
